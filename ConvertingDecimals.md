@@ -16,8 +16,8 @@ Example: Starting with the decimal number **15**:
 
 Now, you can look at the remainder and bits column to find your binary number:
 
-| Remainder | 1 | 1 | 1 | 1 |
-|  --- | --- | --- | ---- |
+| Remainder   | 1 | 1 | 1 | 1 |
+|---|---|---|---|
 | Bit # | 0 | 1 | 2 | 3 |
 
 
