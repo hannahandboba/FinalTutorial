@@ -6,3 +6,4 @@ Summary: In this tutorial, you will learn how to convert between common computer
 Required Knowledge or Experience: None! This tutorial is for beginners!
 
 1. [Introduction - Basics of the Number Systems](https://github.com/hannahandboba/FinalTutorial/blob/main/WhatAreNumberSystems.md)
+2. [Decimal to Binary](https://github.com/hannahandboba/FinalTutorial/blob/main/ConvertingDecimals.md)
