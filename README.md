@@ -1,4 +1,4 @@
-# Tutorial: Converting Between Common Computer Number Systems
+# Tutorial: Converting Decimal Numbers to Common Number Systems
 ## *Created by: Hannah Overman*
 
 Summary: In this tutorial, you will learn how to convert between common computer number systems, including decimal, binary, hexadecimal, and octal.
