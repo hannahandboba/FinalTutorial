@@ -22,6 +22,7 @@ Now, you can look at the remainder and bits column to find your binary number:
 
 Your binary number is **1111**
 
+---
 
 [Next: Converting Decimal to Hexadecimal](https://github.com/hannahandboba/FinalTutorial/blob/main/Decimal%20to%20Hexadecimal.md)
 
