@@ -16,7 +16,7 @@ Example: Starting with the decimal number **256**:
 |          |        |                    |
 | ANSWER   |        | 100                |
  
-Your binary number is **100**
+Your hexadecimal number is **100**
 
 ---
 
